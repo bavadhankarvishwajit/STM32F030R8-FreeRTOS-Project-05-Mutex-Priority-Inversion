@@ -58,7 +58,7 @@ Low Task
 ### Project 5 Poster
 
 <p align="center">
-    <img src="Posters/project_5_mutex.png" width="900">
+    <img src="project_5_mutex.png" width="900">
 </p>
 
 ---
@@ -123,7 +123,7 @@ Demonstrate priority inversion and priority inheritance.
 ### Project 5.1 Poster
 
 <p align="center">
-    <img src="Posters/project_5_1_priority_inversion.png" width="900">
+    <img src="project_5_1_priority_inversion.png" width="900">
 </p>
 
 ---
@@ -219,7 +219,7 @@ This section compares Project 5 and Project 5.1.
 ### Comparison Poster
 
 <p align="center">
-    <img src="Posters/project_5_comparison.png" width="900">
+    <img src="project_5_comparison.png" width="900">
 </p>
 
 ---
